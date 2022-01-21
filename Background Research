@@ -1,3 +1,15 @@
-WHat Do I Need?
+What Do I Need?
 Open source version of breakout game
 https://github.com/janbodnar/Java-Breakout-Game
+Open source version of Pong Game
+http://freesourcecode.net/javaprojects/15352/A-Pong-Game-in-Java#.YerUdOrMJaR
+Open source version of Snake Game
+https://github.com/janbodnar/Java-Snake-Game
+Asteroids
+https://github.com/caseyscarborough/j-asteroids
+
+How to Modify the Games
+Snake: Create a "Bad Apple" That reduces lenght of snake by one can randomly take the place of the normal apple
+Breakout: Add a brick that can regenerate bricks arround it after being destroyed and add explosion brick causes dammage to surrounding bricks
+Pong: Score is doubbled if player or AI can score twice in a row
+Asteroids: Create a "Large Asteroid" That when destroyed creates two normal asteroids and if hit by asteroid game ends.
